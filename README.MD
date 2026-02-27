@@ -25,17 +25,17 @@ Start with [000-start-here.md](000-start-here.md) — it contains the master ind
 | 8 | [08-erc7739-integration.md](08-erc7739-integration.md) | ERC-7739 Integration (Nested Typed Data Signing) | Done |
 | 9 | [09-scw-contracts-v2.md](09-scw-contracts-v2.md) | SCW Contracts v2 (Legacy Biconomy Smart Account) | Done |
 | 10 | [10-abstractjs-smart-sessions.md](10-abstractjs-smart-sessions.md) | AbstractJS SDK: Smart Sessions Support | Done |
-| 11 | 11-composability-runtime-injection.md | Composability / Runtime Injection Details | Pending |
-| 12 | 12-mee3-stx-fusion.md | MEE 3.0.0 / STX Validator / Fusion Modes | Pending |
-| 13 | 13-erc7739-typed-data.md | ERC-7739 Typed Data Signing (Standalone) | Pending |
+| 11 | [11-abstractjs-composability.md](11-abstractjs-composability.md) | AbstractJS SDK: Composability / Runtime Injection | Done |
+| 12 | [12-abstractjs-mee-stx-fusion.md](12-abstractjs-mee-stx-fusion.md) | AbstractJS SDK: MEE 3.0.0 / STX Validator / Fusion Modes | Done |
+| 13 | [13-abstractjs-erc7739-signing.md](13-abstractjs-erc7739-signing.md) | AbstractJS SDK: ERC-7739 Typed Data Signing | Done |
 | 14 | [14-deployment-scripts.md](14-deployment-scripts.md) | Deployment Scripts | Done |
-| 15 | 15-prep-mode.md | PREP Mode | Pending |
-| 16 | 16-erc7579-standard.md | ERC-7579 Standard Co-authorship | Pending |
-| 17 | 17-erc7779-support.md | ERC-7779 Redelegation Support | Pending |
-| 18 | 18-enumerable-map.md | EnumerableMap Library | Pending |
-| 19 | 19-documentation.md | Documentation Contributions | Pending |
-| 20 | 20-security-audit.md | Security & Audit Coordination | Pending |
-| 21 | 21-test-infra-dx.md | Test Infrastructure & Developer Experience | Pending |
+| 15 | [15-prep-mode.md](15-prep-mode.md) | PREP Mode (Provably Rootless EIP-7702 Proxy) | Done |
+| 16 | [16-erc7579-standard-coauthorship.md](16-erc7579-standard-coauthorship.md) | ERC-7579 Standard Co-authorship | Done |
+| 17 | [17-erc7779-redelegation.md](17-erc7779-redelegation.md) | ERC-7779 Support (Redelegation) | Done |
+| 18 | [18-enumerablemap-library.md](18-enumerablemap-library.md) | EnumerableMap Library | Done |
+| 19 | [19-documentation.md](19-documentation.md) | Documentation | Done |
+| 20 | [20-security-audit-coordination.md](20-security-audit-coordination.md) | Security & Audit Coordination | Done |
+| 21 | [21-test-infrastructure.md](21-test-infrastructure.md) | Test Infrastructure & Developer Experience | Done |
 
 See also: [pr-reference-list.md](pr-reference-list.md) — cross-reference mapping every PR to its chapter.
 
